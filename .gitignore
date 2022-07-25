@@ -1,0 +1,6 @@
+.clion.source.upload.marker
+CMakeFiles
+CMakeCache.txt
+Makefile
+Project.cbp
+cmake_install.cmake
